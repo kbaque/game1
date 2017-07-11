@@ -4,16 +4,28 @@
 [screenshot]
 
 ## What is [name of game]?
-
-> Brief discussion of what the game is and why you chose to make it
+ 
+ The name of my game is called " Match Maker "
+  - In this game, emojis will have to memorized and then you have to match them correctly in order to win .
 
 ## Technical Discussion
 
-> List of the technologies you're using (HTML, CSS, JavaScript)
+ -HTML 
+ -CSS
+ -JavaScript
 
 ### Notes on Game Structure
 
-> Code samples, description of challenges you overcame, etc.
+>
+  <!DOCTYPE html>
+  <html>
+  <head>
+    <title></title>
+  </head>
+  <body>
+
+</body>
+</html>
 
 ## The Making of [Your Game]
 
@@ -21,4 +33,6 @@
 
 ## Opportunities for Future Growth
 
-> If you had more time to work on your game, what would you do?
+ - If i had to more time I would make it more difficult by making the game 
+ go on to the next level with more emojis but less timing to memorize.
+
