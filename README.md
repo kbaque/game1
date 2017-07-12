@@ -1,7 +1,7 @@
 # game1
 # [Name of Game]
 
-[screenshot]
+screenshot - https://raw.githubusercontent.com/kbaque/game1/master/Wireframes.png
 
 ## What is [name of game]?
  
@@ -29,7 +29,7 @@
 
 ## The Making of [Your Game]
 
-> Any credits or notes you feel you should add
+> side notes -  I look forward to eventually adding levels to this.
 
 ## Opportunities for Future Growth
 
