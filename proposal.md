@@ -11,7 +11,7 @@
 
 ## Wireframe
 
-(Your wireframes go here. Preferably two or more)
+https://raw.githubusercontent.com/kbaque/game1/master/Wireframes.png
 
 ## Initial thoughts on game structure
 
